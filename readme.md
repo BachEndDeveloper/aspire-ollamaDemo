@@ -13,5 +13,5 @@ There is also my testing setting up MongoDB with ASPIRE
 
 ## Instructions
 
-When requirements are installed, use your favorite IDE, compatiable with .Net ASPIRE. 
+When requirements are installed, use your favorite IDE, compatible with .Net ASPIRE.
 Run the AppHost project - ASPIRE should take care of the rest.
