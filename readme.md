@@ -15,3 +15,8 @@ There is also my testing setting up MongoDB with ASPIRE
 
 When requirements are installed, use your favorite IDE, compatible with .Net ASPIRE.
 Run the AppHost project - ASPIRE should take care of the rest.
+
+## Semantic Kernel
+
+Semantic Kernel on Microsoft Learn [Link](https://learn.microsoft.com/en-us/dotnet/ai/semantic-kernel-dotnet-overview)
+Semantic Kernel on Ollama connector [Link](https://devblogs.microsoft.com/semantic-kernel/introducing-new-ollama-connector-for-local-models/)
