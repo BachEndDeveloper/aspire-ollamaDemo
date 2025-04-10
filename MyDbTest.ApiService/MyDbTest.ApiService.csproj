@@ -11,14 +11,14 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="Aspire.MongoDB.Driver" Version="9.1.0" />
+        <PackageReference Include="Aspire.MongoDB.Driver" Version="9.2.0" />
         <PackageReference Include="CommunityToolkit.Aspire.OllamaSharp" Version="9.3.1-beta.253" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.2" />
         <PackageReference Include="Microsoft.Extensions.AI" Version="9.3.0-preview.1.25161.3" />
         <PackageReference Include="Microsoft.Extensions.AI.Abstractions" Version="9.3.0-preview.1.25161.3" />
         <PackageReference Include="Microsoft.Extensions.AI.Ollama" Version="9.3.0-preview.1.25161.3" />
         <PackageReference Include="Microsoft.SemanticKernel.Connectors.Ollama" Version="1.45.0-alpha" />
-        <PackageReference Include="Scalar.AspNetCore" Version="2.0.36" />
+        <PackageReference Include="Scalar.AspNetCore" Version="2.1.10" />
     </ItemGroup>
 
 </Project>
